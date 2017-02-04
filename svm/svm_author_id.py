@@ -44,6 +44,11 @@ print "training time:", round(time()-t0, 3), "s"
 t0 = time()
 pred=clf.predict(features_test)
 print "predicting time:", round(time()-t0, 3), "s"   
+                               
+                               
+                               
+                               
+                               
 
 #########################################################
 
